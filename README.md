@@ -1,2 +1,2 @@
-# perfect_hits
+# BIOL 7200
 BIOL 7200 Exercise 3
