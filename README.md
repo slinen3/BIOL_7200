@@ -1,2 +1,3 @@
 # BIOL 7200
-BIOL 7200 Exercise 3
+Code from BIOL 7200 (Programming Bioinformatics) Assignments
+
